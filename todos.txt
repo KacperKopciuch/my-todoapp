@@ -6,4 +6,3 @@ piec
 szesc
 siedem
 osiem
-dziewiec
